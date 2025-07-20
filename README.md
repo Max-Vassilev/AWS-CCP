@@ -6,7 +6,7 @@ Final Summary:
 ✅ 4 - IAM:
 CLI: manage AWS services through terminal (you need access keys)
 SDK: manage AWS services through programming code (you need access keys)
-Audit: IAM credential reports
+Audit: IAM credential report and IAM Access Advisor
 
 ✅ 5 - EC2:
 Instance types:
